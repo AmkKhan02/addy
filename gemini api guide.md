@@ -168,4 +168,4 @@ When migrating from `google-generativeai` to `google-genai`:
 **Issue**: Model names not working
 **Solution**: Use current model names like `gemini-2.0-flash-exp`
 
-Remember: Always use `google-genai` package and client-based configuration for new projects!
+Remember: Always use `google-genai` package and client-based configuration for new projects! a
